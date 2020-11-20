@@ -36,3 +36,16 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prasundas99&column=7&hide=PullRequest"/>
+  </a>
+</div>
+
+
+#### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/prasundas99?style=social"/> 
