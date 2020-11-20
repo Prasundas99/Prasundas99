@@ -18,7 +18,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
-<code>C++</code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
@@ -55,7 +55,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
-<code>Firebase</code>
+<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
 
 
 
