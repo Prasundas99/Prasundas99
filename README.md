@@ -58,7 +58,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 ### Others:
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="30"></code>
-
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30"></code>
 
 
