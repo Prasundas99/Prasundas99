@@ -10,9 +10,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 <p align="center">
 <a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
-
 <a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>
-
 <a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
 </p>
 
