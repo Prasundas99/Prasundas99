@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**Prasundas99/Prasundas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Hi there 👋, I'm Prasun Das. </h3>
 
-Here are some ideas to get you started:
+<h4 align="center"> I'm am a full Stack MERN/WAMP Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### BIO
+
+Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
+
+
+<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/p.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
+</p>
