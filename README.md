@@ -9,9 +9,11 @@
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
 
 <p align="center">
-<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
+<a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>
+&nbsp;&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
+&nbsp;&nbsp;
 </p>
 
 ##  Skilled in 
