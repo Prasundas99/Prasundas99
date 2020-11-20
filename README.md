@@ -1,6 +1,6 @@
 <h3> Hi there 👋, I'm Prasun Das. </h3>
 
-<h4 align="center"> I'm am a full Stack MERN/WAMP Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> I'm am a full Stack MERN/WAMP Web Developer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 #### BIO
 
@@ -41,7 +41,11 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-use-the-apache-web-server-to-install-and-configure-a-website%2F&psig=AOvVaw0jblUF5M_KBLyxDHysYJdR&ust=1605976988807000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiU5-7Ike0CFQAAAAAdAAAAABAD" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
+<code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="30"></code>
+
+
+
 
 #### Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
@@ -52,6 +56,13 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
 <code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
+
+## Work Experience 
+
+- 🔭 I’m currently working as SDE Intern @Quordnet Academy
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate Full Stack Web development Projects
+
 
 
 <div>
