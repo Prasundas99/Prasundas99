@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 <h3> Hi there 👋, I'm Prasun Das. </h3>
 
 <h4 align="center"> I'm am a full Stack MERN/WAMP Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
