@@ -26,3 +26,13 @@ C++
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
 
 ### Web Development (Full-stack):
+
+#### •Frontend/UI:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/thymeleaf.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/angular.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
