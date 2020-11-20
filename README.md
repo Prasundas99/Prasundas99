@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<h3 align="center"> Hi there 👋, I'm Prasun Das. </h3>
+<h3> Hi there 👋, I'm Prasun Das. </h3>
 
 <h4 align="center"> I'm am a full Stack MERN/WAMP Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
@@ -54,7 +54,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
 
-### Cloud/Dev-Ops:
+### Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
 <code>Firebase</code>
