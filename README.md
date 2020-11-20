@@ -57,6 +57,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Cloud/Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<code>Firebase</code>
 
 
 
