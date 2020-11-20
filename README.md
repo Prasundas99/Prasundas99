@@ -2,7 +2,7 @@
 
 <h4 align="center"> I'm am a Full Stack MERN/WAMP Web Developer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
-#### BIO
+## BIO
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
 
