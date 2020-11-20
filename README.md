@@ -17,3 +17,12 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 </p>
 
 ##  Skilled in 
+
+### Languages:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
+C++
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+
+### Web Development (Full-stack):
