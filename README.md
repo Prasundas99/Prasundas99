@@ -39,6 +39,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
 
