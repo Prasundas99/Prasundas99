@@ -28,7 +28,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 #### •Frontend/UI:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
-<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstephenafamo.com%2Fblog%2Ftailwind-css-getting-set-up-in-minutes%2F&psig=AOvVaw3gwnEKJyMbjo1phhiv8rnx&ust=1606069415024000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj7l4ChlO0CFQAAAAAdAAAAABAJ" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx_cXS9Z-WaZKNAEpr-eTnWJb57Rk00U8Ww&usqp=CAU" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
