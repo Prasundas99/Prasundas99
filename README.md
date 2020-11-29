@@ -68,7 +68,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ## Work Experience 
 
 - 🔭 I’m currently working as SDE Intern @Quordnet Academy
-- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate Full Stack Web development Projects
 
 
