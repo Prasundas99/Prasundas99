@@ -65,7 +65,14 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 
 
-## Work Experience 
+## Work Experience :
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
+|  Web Developer Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
+| React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
+| Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |
 
 
 - 👯 I’m looking to collaborate Full Stack Web development Projects
