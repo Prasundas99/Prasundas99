@@ -1,6 +1,6 @@
 <h3> Hi there 👋, I'm Prasun Das. </h3>
 
-<h4 align="center"> I'm am a Full Stack MERN/WAMP Web Developer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> I'm am a Software Development Engineer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 ## BIO
 
@@ -72,6 +72,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 | Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 |  Web Developer Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 | React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
+| Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
 | Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |
 
 
@@ -79,13 +80,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 
 
-<!--<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prasundas99&column=7&hide=PullRequest"/>
-  </a>
-</div>
--->
+
+### 🏆 Github Profile Trophy </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prasundas99&theme=dracula" alt="Prasundas99" /></a> </p>
+
 
 
 
