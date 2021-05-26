@@ -45,9 +45,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 
 
-
-
-
 #### Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
@@ -61,7 +58,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Others:
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30"></code>
-
+<code><img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" height="30"></code>
 
 
 
