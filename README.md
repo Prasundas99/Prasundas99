@@ -1,18 +1,12 @@
 <h3> Hi there 👋, I'm Prasun Das. </h3>
 
-<h4 align="center"> I'm am a Software Development Engineer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<ul>
+  <li>I'm am a Software Development Engineer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </li>
+  <li>I'm Proficient in Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills. </li>
+  <li> 💬 Ask me about Full Stack Web Development | Backend Development |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
+  <li>💼 Portfolio: Check out my Portfolio at https://prasun-das.web.app/  </li>
+</ul>
 
-## BIO
-
-Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/prasun--das/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@prasundas115"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/Prasun_Das_"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
-&nbsp;&nbsp;
-</p>
 
 ##  Skilled in 
 
@@ -87,4 +81,12 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-
+### Social Links
+<p align="center">
+<a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/Prasun_Das_"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
+&nbsp;&nbsp;
+  <a href="mailto:prasundas115@gmail.com"><img height="45" src="https://toppng.com/uploads/preview/mail-icon-logo-template-icono-de-gmail-11562954424h5fw2mradf.png"></a>&nbsp;&nbsp;
+</p>
