@@ -2,9 +2,10 @@
 
 <ul>
   <li>I'm am a Software Development Engineer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </li>
-  <li>I'm Proficient in Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills. </li>
+  <li>I'm Proficient in  Stack MERN Web Development, React Native App Developer. Also efficient in working with WAMPP stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills. </li>
   <li> 💬 Ask me about Full Stack Web Development | Backend Development |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
   <li>💼 Portfolio: Check out my Portfolio at https://prasun-das.web.app/  </li>
+  <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
 
 
@@ -67,8 +68,6 @@
 | Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |
 
 
-- 👯 I’m looking to collaborate Full Stack Web development Projects
-
 
 
 
@@ -82,7 +81,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 ### Social Links
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
 &nbsp;&nbsp;
