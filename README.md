@@ -20,7 +20,7 @@
 
 ### Web Development (Full-stack):
 
-#### •Frontend/UI:
+#### Frontend/UI:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx_cXS9Z-WaZKNAEpr-eTnWJb57Rk00U8Ww&usqp=CAU" height="30"></code>
