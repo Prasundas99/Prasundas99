@@ -10,7 +10,7 @@
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
 
-  <li> 💬 Ask me about Full Stack Web Development | Backend Development |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
+  <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
   <li>💼 Portfolio: Check out my Portfolio at    https://prasun-das.web.app/  </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
@@ -79,6 +79,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
+| Freelance Web Developer | [@SINCON](https://scientificinstrumentconcern.in) | July 2021 - Present |
 | Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 |  Web Developer Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 | React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
