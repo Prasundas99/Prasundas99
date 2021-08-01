@@ -79,12 +79,12 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Freelance Web Developer | [@SINCON](https://scientificinstrumentconcern.in) | July 2021 - Present |
+| Freelance Web Developer | [@SINCON](https://scientificinstrumentconcern.in) | June 2021 - July 2021 |
 | Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 |  Web Developer Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 | React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
 | Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
-| Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |
+| Software Developer Intern | [@Quordnet-Academy](www.quordnetacademy.com) | July 2020 - Mar 2021 |
 
 
 
