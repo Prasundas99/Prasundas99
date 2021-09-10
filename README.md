@@ -1,13 +1,12 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
- <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prasun Das  </h2>  
- 
-<p> A Software and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </p>
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+ <h2 align="center"> Hi there, I'm Prasun Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+
+<p> A Software and Web developer 🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart: I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </p>
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
-
-<img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
 
   <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
@@ -15,10 +14,10 @@
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
 
+## Skilled in
 
-##  Skilled in 
+### Languages
 
-### Languages:
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="36">
@@ -26,8 +25,10 @@
  <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" height="36">
 </div>
 
-### Web Development (Full-stack):
-#### Frontend/UI:
+### Web Development (Full-stack)
+
+#### Frontend/UI
+
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
@@ -41,8 +42,8 @@
 <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="36"> 
 </div>
 
+#### Backend/Server
 
-#### Backend/Server:
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" height="36">
@@ -53,15 +54,16 @@
  <img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" height="36">
 </div>
 
+#### Database
 
-#### Database:
 <div>
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="36">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36">
 </div>
 
-### Dev-Ops:
+### Dev-Ops
+
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="36">
@@ -69,11 +71,10 @@
 <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
  <img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="36">
 
- 
 </div>
 
+### Others
 
-### Others:
 <div>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="36">
@@ -82,8 +83,7 @@
 
 </div>
 
-
-## Work Experience :
+## Work Experience
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
@@ -94,21 +94,17 @@
 | Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
 | Software Developer Intern | [@Quordnet-Academy](www.quordnetacademy.com) | July 2020 - Mar 2021 |
 
+### 🏆 GitHub Profile Trophy
 
-
-
-
-### 🏆 Github Profile Trophy </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prasundas99&theme=dracula" alt="Prasundas99" /></a> </p>
 
 
-
-
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 ## Connect with me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
