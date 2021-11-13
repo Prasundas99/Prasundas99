@@ -82,6 +82,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
 <img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="36">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="36">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="36">
 
 </div>
 
