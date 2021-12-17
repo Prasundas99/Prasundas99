@@ -117,6 +117,7 @@
 ## VOLUNTEER/COMMUNITY EXPERIENCE
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
+| Web Developer | [@Ecsasia]() | Nov 2021 - Present |
 | Web Developer | [@SPIE OSA UEMK]() | Aug 2021 - Present |
 | Web Team Lead | [@Ureckon](www.ureckon.org) | Dec 2020 - Present |
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
