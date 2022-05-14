@@ -107,7 +107,8 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-|  SDE Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
+|  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Present |
+|  SDE Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - May 2022 |
 | Full Stack Web Developer | [@UEM Kolkata](https://uem.edu.in) | Nov 2021 - Mar 2022 |
 | Freelance Web Developer | [@SINCON](https://scientificinstrumentconcern.in) | June 2021 - July 2021 |
 | Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Aug 2021 |
