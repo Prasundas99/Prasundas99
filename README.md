@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
- <h2 align="center"> Hi there, I'm Prasun Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+ <h2 align="center"> Hi there, I'm Prasun Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>  
 
 <p> A Software and Web developer 🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart: I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </p>
 
