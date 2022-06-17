@@ -119,6 +119,7 @@
 | Technical Instructor | [@IEMA](https://iemlabs.com) | Mar 2021 - Aug 2021 |
 | React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
 | Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
+| Freelancer | [@Quordnet-Service](https://www.facebook.com/quordnetservices) | Sept 2020 - Nov 2021 |
 | Software Developer Intern | [@Quordnet-Academy](www.quordnetacademy.com) | July 2020 - Mar 2021 |
 
 ## VOLUNTEER/COMMUNITY EXPERIENCE
