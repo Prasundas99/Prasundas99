@@ -131,9 +131,13 @@
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
 
 
-### 🏆 GitHub Profile Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prasundas99&theme=dracula" alt="Prasundas99" /></a> </p>
+### 🏆 Latest Blog Posts 💬 📋 ✒️
+<ul>
+    <li><a href="https://www.pephub.tech/blogs/learn-java-basics-to-advanced-concepts-java-cheatsheet-f8ba80e3" />Compllete Java Cheatsheet</a></li>
+   <li><a href="https://www.pephub.tech/blogs/a-complete-roadmap-for-on-campus-placements-61ff69a2" />A Complete Roadmap for On-Campus Placements</a></li>
+   <li><a href="https://medium.com/@prasundas115/understanding-the-javascript-basics-66710bcf5576" />Understanding JavaScript</a></li>
+  </ul>
+<p><a href="https://www.pephub.tech/">➡️ More blog posts</a></p>
 
 
 #### Overall profile stats
