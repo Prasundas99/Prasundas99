@@ -133,7 +133,7 @@
 
 ### 🏆 Latest Blog Posts 💬 📋 ✒️
 <ul>
-    <li><a href="https://www.pephub.tech/blogs/learn-java-basics-to-advanced-concepts-java-cheatsheet-f8ba80e3" />Compllete Java Cheatsheet</a></li>
+    <li><a href="https://www.pephub.tech/blogs/learn-java-basics-to-advanced-concepts-java-cheatsheet-f8ba80e3" />Complete Java Cheatsheet</a></li>
    <li><a href="https://www.pephub.tech/blogs/a-complete-roadmap-for-on-campus-placements-61ff69a2" />A Complete Roadmap for On-Campus Placements</a></li>
    <li><a href="https://medium.com/@prasundas115/understanding-the-javascript-basics-66710bcf5576" />Understanding JavaScript</a></li>
   </ul>
