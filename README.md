@@ -94,6 +94,7 @@
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="42">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="42">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
+<img src="https://www.netreo.com/wp-content/uploads/Azure-Service-Bus.png" alt="nginx" width="60" height="60"/>
 </div>
 
 ### Others
