@@ -1,9 +1,7 @@
-![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
- <h2 align="center"> Hi there, I'm Prasun Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>  
+ <h2 align="center"> Hi there, I'm Prasun Das 👋</h2>  
 
 <p> A Software and Web developer 🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart: I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </p>
 
-![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 <img width="45%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -19,10 +17,12 @@
 ### Languages
 
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="30">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="36">
- <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" height="36">
+ <img src=".\img\language\c.png" height="36">
+ <img src=".\img\language\csharp.png" height="36">
+  <img src=".\img\language\java.png" height="46">
+   <img src=".\img\language\js.png" height="36">
+    <img src=".\img\language\python.png" height="36">
+     <img src=".\img\language\ts.png" height="36">
 </div>
 
 ### Web Development (Full-stack)
@@ -30,83 +30,90 @@
 #### Frontend/UI
 
 <div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
-<img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="36">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="36">
-<img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">  
-<img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" height="36">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="36">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="36">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="36"> 
+<img src=".\img\frontend\html.png" height="36">
+<img src=".\img\frontend\css.webp" height="36">
+<img src=".\img\frontend\Bootstrap.png" height="36">
+<img src=".\img\frontend\tailwind.png" height="36">
+<img src=".\img\frontend\sass.png" height="36">
+<img src=".\img\frontend\ajax.png" height="36">
+<img src=".\img\frontend\Angular.png" height="36">
+<img src=".\img\frontend\Blazor.png" height="42">
+<img src=".\img\frontend\jQuery.jpg" height="36">
+<img src=".\img\frontend\react.png" height="36">
+<img src=".\img\frontend\next.png" height="36">
+<img src=".\img\frontend\Redux.png" height="36">
+<img src=".\img\frontend\vue.png" height="36">
  
 </div>
 
 #### Backend/Server
 
 <div>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="63"/>
-<img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="42">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="42">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="42">
- <img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" height="42">
- 
-  <img src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" height="42">
- 
-
-
- 
+ <img src=".\img\backend\server\node.png" height="36">
+  <img src=".\img\backend\server\dotnet-core.png" height="36">
+   <img src=".\img\backend\server\express.png" height="40">
+    <img src=".\img\backend\server\fastApi.png" height="36">
+ <img src=".\img\backend\server\nest.png" height="36">
+  <img src=".\img\backend\server\laravel.png" height="36">
 
 </div>
+
+
+#### Backend/Security
+
+<div>
+ <img src=".\img\backend\security\jwt.png" height="36">
+ <img src=".\img\backend\security\ldap.png" height="36">
+ <img src=".\img\backend\security\oauth.png" height="36">
+</div>
+
 
 #### Microservices
 
 <div>
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.png" height="42">
-<img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" height="42">
-<img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats-streaming/logo.png" height="42">
- 
-
+<img src=".\img\backend\ms\elastic.png" height="36">
+<img src=".\img\backend\ms\graphql.png" height="36">
+<img src=".\img\backend\ms\kafka.png" height="36">
+<img src=".\img\backend\ms\rest.png" height="36">
+<img src=".\img\backend\ms\nats.png" height="36">
+<img src=".\img\backend\ms\RabbitMq.jpeg" height="36">
+<img src=".\img\backend\ms\AzureServiceBus.png" height="36">
 </div>
 
 #### Database
 
 <div>
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="42">
+<img src=".\img\db\mysql1.png" height="36">
+<img src=".\img\db\mongo.jpg" height="42">
+<img src=".\img\db\ms-sql.png" height="42">
+<img src=".\img\db\redis.png" height="36">
+<img src=".\img\db\MariaDb.png" height="36">
 </div>
 
 ### Dev-Ops
 
 <div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="40">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="41">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="42">
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="42">
-<img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="42">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="42">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
-<img src="https://www.netreo.com/wp-content/uploads/Azure-Service-Bus.png" alt="nginx" width="60" height="60"/>
+<img src=".\img\cloud\aws.png" height="36">
+<img src=".\img\cloud\Azure.png" height="36">
+<img src=".\img\cloud\docker.png" height="42">
+<img src=".\img\cloud\git.png" height="36">
+<img src=".\img\cloud\jenkins.jpg" height="36">
+<img src=".\img\cloud\ku.jpg" height="42">
+<img src=".\img\cloud\lambda.png" height="36">
+<img src=".\img\cloud\s3.png" height="36">
 </div>
 
 ### Others
 
 <div>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="40">
-<img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" height="40">
-<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" height="40">
-<img src="https://github.com/scrapy/scrapy/blob/master/artwork/scrapy-logo.jpg" height="40">
-
-
+<img src=".\img\other\Unity-logo.png" height="46">
+<img src=".\img\other\React-Native.png" height="36">
+<img src=".\img\other\Electron.png" height="42">
+<img src=".\img\other\Jest.png" height="36">
+<img src=".\img\other\nUnit.png" height="36">
+<img src=".\img\other\Scrapy.png" height="42">
+<img src=".\img\other\Selenium.png" height="36">
+<img src=".\img\other\Azure-devops.png" height="36">
 </div>
 
 ## Work Experience
@@ -114,6 +121,7 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 |  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Present |
+|  Technical Member | [@Code Red, EC-Council](https://codered.eccouncil.org/) | Aug 2022 - Sept 2022 |
 |  SDE Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - May 2022 |
 | Full Stack Web Developer | [@UEM Kolkata](https://uem.edu.in) | Nov 2021 - Mar 2022 |
 | Freelance Web Developer | [@SINCON](https://scientificinstrumentconcern.in) | June 2021 - July 2021 |
@@ -126,11 +134,22 @@
 ## VOLUNTEER/COMMUNITY EXPERIENCE
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Web Developer | [@Ecsasia]() | Nov 2021 - Present |
+| Web Dev Lead  | [@DSC UEMK]() | July 2022 - Present |
+| Web Developer Mentor | [@Ecsasia]() | Nov 2021 - Present |
 | Web Developer | [@SPIE OSA UEMK]() | Aug 2021 - Present |
-| Web Team Lead | [@Ureckon](www.ureckon.org) | Dec 2020 - Present |
+| Web Team  Mentor| [@Ureckon](www.ureckon.org) | Dec 2020 - Present |
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
 
+### 🏆🏆 Achievement 🏆🏆
+<ul>
+  <li>Secure 10th position in district
+Kolkata in International
+Informatics Olympiad (IIO),2017</li>
+
+<li>Top 5 in IIITP Hackathon 2021 in 1075 teams held internationally</li>
+<li>Top 20 in IBM WITACE Hakathon  </li>
+<li>Hackathon finalist of UIDAI Government Hackathon </li>
+</ul>  
 
 ### 🏆 Latest Blog Posts 💬 📋 ✒️
 <ul>
