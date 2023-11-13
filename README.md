@@ -169,10 +169,10 @@ Informatics Olympiad (IIO),2017</li>
 ## Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
+<a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@prasundas115"><img height="45" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/Prasun_Das_"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
+<a href="https://twitter.com/Prasun_Das_"><img height="45" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg"></a>
 &nbsp;&nbsp;
   <a href="mailto:prasundas115@gmail.com"><img height="45" src="https://toppng.com/uploads/preview/mail-icon-logo-template-icono-de-gmail-11562954424h5fw2mradf.png"></a>&nbsp;&nbsp;
 </p>
