@@ -4,7 +4,7 @@
 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
-<img width="45%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 <ul>
   <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
   <li>💼 Portfolio: Check out my Resume at  : <a href="https://docs.google.com/document/d/1_NCJH-kaJnU8jFFbWVvcXqoavJ1qZQo3sybgpqX-0Uw/edit?usp=sharing">Resume</a>  </li>
