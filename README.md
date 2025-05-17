@@ -9,8 +9,9 @@
 
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 <ul>
-  <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | Data Structures | Algorithms </li>
-  <li>💼 Portfolio: Check out my Resume at  : <a href="https://docs.google.com/document/d/1_NCJH-kaJnU8jFFbWVvcXqoavJ1qZQo3sybgpqX-0Uw/edit?usp=sharing">Resume</a>  </li>
+  <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | System Design   </li>
+  <li>💼 Resume: Check out my Resume at  : <a href="https://drive.google.com/file/d/1l1GlLyDDg8kXNyX_yfgbmoKeNXFsR4VE/view?usp=drive_link">Resume</a>  </li>
+   <li>💼 Portfolio: Check out my Portfolio at  : <a href="https://bento.me/prasun-das">Portfolio</a>  </li>
   <li>💼 Hobby : Check out my Website at  : <a href="https://www.pephub.tech">PepHub</a>  </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
@@ -125,7 +126,9 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-|  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Present |
+| Technical Instructor | [@Elvira Infotech](https://elvirainfotech.com/) | Mar 2025 - April 2025 |
+|  Full Stack Developer | [@Phlo Systems](https://www.phlo.io/) | Mar 2024 - Present |
+|  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Mar 2024 |
 |  Technical Member | [@Code Red, EC-Council](https://codered.eccouncil.org/) | Aug 2022 - Sept 2022 |
 |  SDE Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - May 2022 |
 | Full Stack Web Developer | [@UEM Kolkata](https://uem.edu.in) | Nov 2021 - Mar 2022 |
@@ -139,11 +142,31 @@
 ## VOLUNTEER/COMMUNITY EXPERIENCE
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Web Dev Lead  | [@DSC UEMK]() | July 2022 - Present |
-| Web Developer Mentor | [@Ecsasia]() | Nov 2021 - Present |
-| Web Developer | [@SPIE OSA UEMK]() | Aug 2021 - Present |
-| Web Team  Mentor| [@Ureckon](www.ureckon.org) | Dec 2020 - Present |
+| Organizing Member  | [@UXINDIA](https://2024.ux-india.org/) | July 2024 - Nov 2024 |
+| Web Dev Lead  | [@DSC UEMK]() | July 2022 - July 2023 |
+| Web Developer Mentor | [@Ecsasia]() | Nov 2021 - June 2022 |
+| Web Developer | [@SPIE OSA UEMK]() | Aug 2021 - July 2023 |
+| Web Team  Mentor| [@Ureckon](www.ureckon.org) | Dec 2020 - May 2023 |
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
+
+## TALKS / PRESENTATIONS
+
+### Organizing member @UXINDIA
+![image](https://github.com/user-attachments/assets/811dc9e8-49b8-4bd8-84eb-55bf1a421523)
+
+
+### Session in @Jadavpur University
+![image](https://github.com/user-attachments/assets/6b5b3004-7c06-4816-ac1e-944f83fbb780)
+
+### Hackathon Mentor in @IIIT Kalyani
+![image](https://github.com/user-attachments/assets/8ffdcb35-88c1-4c0e-b7fd-e74d90584467)
+
+
+### Session in @IEM Newtown
+![image](https://github.com/user-attachments/assets/8c5329c5-6e72-46f4-9111-25658739eda7)
+
+<p><a href="https://bento.me/prasun-das">➡️ More talks and presentations</a></p>
+
 
 ### 🏆🏆 Achievement 🏆🏆
 <ul>
@@ -158,16 +181,14 @@ Informatics Olympiad (IIO),2017</li>
 
 ### 🏆 Latest Blog Posts 💬 📋 ✒️
 <ul>
+    <li><a href="https://www.pephub.tech/interview-preparation/mnc-sde/prepare?name=sde-system-design&slug=what-is-system-design-and-why-is-system-design-important-67bc0f63" />System Design</a></li>
+    <li><a href="https://www.pephub.tech/blogs/the-art-of-pagination-a-developers-journey-through-data-management-part-1-fcb624ee" />The Art of Pagination: A Developer's Journey Through Data Management</a></li>
     <li><a href="https://www.pephub.tech/blogs/learn-java-basics-to-advanced-concepts-java-cheatsheet-f8ba80e3" />Complete Java Cheatsheet</a></li>
    <li><a href="https://www.pephub.tech/blogs/a-complete-roadmap-for-on-campus-placements-61ff69a2" />A Complete Roadmap for On-Campus Placements</a></li>
    <li><a href="https://medium.com/@prasundas115/understanding-the-javascript-basics-66710bcf5576" />Understanding JavaScript</a></li>
   </ul>
 <p><a href="https://www.pephub.tech/">➡️ More blog posts</a></p>
 
-
-#### Overall profile stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 ## Connect with me
 
