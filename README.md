@@ -126,8 +126,8 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Technical Instructor | [@Elvira Infotech](https://elvirainfotech.com/) | Mar 2025 - April 2025 |
 |  Full Stack Developer | [@Phlo Systems](https://www.phlo.io/) | Mar 2024 - Present |
+| Technical Instructor | [@Elvira Infotech](https://elvirainfotech.com/) | Mar 2025 - April 2025 |
 |  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Mar 2024 |
 |  Technical Member | [@Code Red, EC-Council](https://codered.eccouncil.org/) | Aug 2022 - Sept 2022 |
 |  SDE Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - May 2022 |
