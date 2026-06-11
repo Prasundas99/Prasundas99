@@ -126,7 +126,8 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-|  Full Stack Developer | [@Phlo Systems](https://www.phlo.io/) | Mar 2024 - Present |
+| SDE - II | [@REDOQ](https://redoq.com/) | June 2025 - Present |
+|  Full Stack Developer | [@Phlo Systems](https://www.phlo.io/) | Mar 2024 - May 2025 |
 | Technical Instructor | [@Elvira Infotech](https://elvirainfotech.com/) | Mar 2025 - April 2025 |
 |  Software Engineer | [@Quantorix Technology Pvt Ltd](https://www.quantorix.com) | May 2022 - Mar 2024 |
 |  Technical Member | [@Code Red, EC-Council](https://codered.eccouncil.org/) | Aug 2022 - Sept 2022 |
@@ -148,6 +149,19 @@
 | Web Developer | [@SPIE OSA UEMK]() | Aug 2021 - July 2023 |
 | Web Team  Mentor| [@Ureckon](www.ureckon.org) | Dec 2020 - May 2023 |
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
+
+## Contractual Projects
+
+| 🏢 Organization / Project | 🌐 Domain | ⏰ Timeline |
+| :-: | :-: | :-: |
+| [The Godfrey Method](https://app.thegodfreymethod.com/) | OTT Entertainment | May 2025 - Present |
+| [BONAP](https://bonap.info/) | Biodiversity Research | Feb 2026 - June 2026 |
+| [BONAP Flora Fauna Comparing Tool](https://portal.bonap.info/) | Flora & Fauna Comparison Tool | Feb 2026 - June 2026 |
+| [Diaspora](https://diasporaworks.com/) | Job Search Portal | - |
+| [PepHub](https://pephub.tech/) | EdTech Platform | - |
+| [PepHub Consultancy](https://consultancy.pephub.tech/portfolio/) | Portfolio Site | - |
+| [Matricula](https://matricula.co.in/en/home/) | Learning Management System | - |
+
 
 ## TALKS / PRESENTATIONS
 
