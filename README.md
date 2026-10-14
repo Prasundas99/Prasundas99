@@ -13,7 +13,7 @@
   <li>💼 Resume: Check out my Resume at  : <a href="https://drive.google.com/file/d/1l1GlLyDDg8kXNyX_yfgbmoKeNXFsR4VE/view?usp=drive_link">Resume</a>  </li>
    <li>💼 Portfolio: Check out my Portfolio at  : <a href="https://bento.me/prasun-das">Portfolio</a>  </li>
   <li>💼 Hobby : Check out my Website at  : <a href="https://www.pephub.tech">PepHub</a>  </li>
-  <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
+  <li>👯 I’m looking to collaborate Full Stack Web and AI development Projects </li>
 </ul>
 
 ## Skilled in
