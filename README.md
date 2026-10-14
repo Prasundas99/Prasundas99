@@ -154,6 +154,7 @@
 
 | 🏢 Organization / Project | 🌐 Domain | ⏰ Timeline |
 | :-: | :-: | :-: |
+| [Finsphere](https://www.finsphere.co/) | FinTech | May 2026 - Present |
 | [The Godfrey Method](https://app.thegodfreymethod.com/) | OTT Entertainment | May 2025 - Present |
 | [BONAP](https://bonap.info/) | Biodiversity Research | Feb 2026 - June 2026 |
 | [BONAP Flora Fauna Comparing Tool](https://portal.bonap.info/) | Flora & Fauna Comparison Tool | Feb 2026 - June 2026 |
